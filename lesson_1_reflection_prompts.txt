@@ -3,4 +3,6 @@ This is the lesson 1 reflection file.......
 
 
 
+Add a new line to see the diff command.
 
+This line to see what happened in working directory and staging area.
